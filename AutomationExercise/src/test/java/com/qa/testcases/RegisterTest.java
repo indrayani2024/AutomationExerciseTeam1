@@ -52,5 +52,9 @@ public class RegisterTest {
 		 
 		//input[@data-qa='password']
  	}
+	public void test()
+	{
+		System.out.println("Indrayani");
+		}
 	
 }
